@@ -1,16 +1,16 @@
-<!-- 🏛️ Senior Developer Profile – Merugu Akhila -->
+<!-- 🏛️ Professional Developer Profile – Merugu Akhila -->
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0F172A&height=200&section=header&text=Merugu%20Akhila&fontSize=55&fontColor=38BDF8&animation=fadeIn&fontAlignY=45" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Software+Architect;Full+Stack+Systems+Specialist;AI+Engineering+Lead;Building+Scalable+Production+Systems;Turning+Architectures+into+Reality+✨" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;AI+Engineering+Enthusiast;Building+Real-World+Production+Apps;Focusing+on+Clean+Code+%26+Elegant+Design;Turning+Ideas+into+Code+✨" alt="Typing Animation" />
 </div>
 
 ---
 
-## 👨‍💻 Professional Summary
+## 🌟 About Me
 
 <table width="100%">
   <tr>
@@ -18,16 +18,16 @@
       <img src="https://raw.githubusercontent.com/AkhilaM-21/AkhilaM-21/main/coding.gif" width="280" style="border-radius:15px; border: 1px solid #1E293B;" />
     </td>
     <td width="70%" align="left">
-      <h3>Engineering Excellence in AI & Full Stack Systems</h3>
+      <h3>Full Stack Developer & AI Innovator</h3>
       <p>
-        I am a <b>Senior Full Stack Developer</b> based in Hyderabad, India, specializing in the design and implementation of production-ready, scalable applications. My expertise spans from crafting intuitive React interfaces to architecting robust FastAPI and Node.js backends.
+        I am a <b>Full Stack Developer</b> based in Hyderabad, India, dedicated to building production-ready apps from end to end. I specialize in crafting clean React interfaces and architecting scalable FastAPI and Node.js backends.
       </p>
       <p>
-        Currently, I am at the forefront of the AI revolution, building sophisticated <b>AI-powered agents</b> using <b>LangGraph</b>, <b>LangChain</b>, and <b>NLP</b> to solve complex, real-world business and political challenges.
+        Currently, I am focused on building <b>AI-powered tools</b> using <b>LangGraph</b>, <b>LangChain</b>, and <b>NLP</b> to solve practical business and community challenges.
       </p>
       <p>
-        💼 <b>Senior Full Stack Developer @ ShowTime Consulting</b><br>
-        ✨ <i>Focus: Software Architecture, AI Orchestration, and Engineering Scalability.</i>
+        💼 <b>Full Stack Developer @ ShowTime Consulting</b><br>
+        ✨ <i>Believer in clean code, elegant design, and continuous learning.</i>
       </p>
       <p>
         <a href="https://www.linkedin.com/in/akhila-m21">
@@ -43,7 +43,7 @@
 
 ---
 
-## 🛠️ Engineering Suite
+## 🛠️ Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,fastapi,python,java,mongodb,mysql,aws,git,github,postman,vscode,docker&theme=dark" />
@@ -53,66 +53,66 @@
 
 <div align="center">
 
-| Domain | Technologies & Expertise |
+| Category | Technologies & Skills |
 | :--- | :--- |
-| **Architecture & Core** | JavaScript (ES6+), Python, Java, RESTful Architecture, Systems Design |
-| **Frontend Engineering** | React.js, Next.js, Tailwind CSS, Responsive & Performant UIs |
-| **Backend & APIs** | FastAPI, Node.js, Express.js, JWT, Socket.IO, Scalable API Design |
-| **AI & Intelligence** | LangChain, LangGraph, OpenRouter, NLP, Sentiment Analysis, Multi-Model Systems |
-| **Data & Cloud** | MongoDB, MySQL, AWS (S3, EC2), Razorpay Integration, CI/CD, Git |
+| **Languages** | JavaScript (ES6+), Python, Java, HTML5, CSS3 |
+| **Frontend** | React.js, Next.js, Tailwind CSS, Bootstrap, Responsive Design |
+| **Backend** | FastAPI, Node.js, Express.js, REST API Design, Socket.IO |
+| **AI & NLP** | LangChain, LangGraph, OpenRouter, Sentiment Analysis, Agentic Workflows |
+| **Infrastructure** | MongoDB, MySQL, AWS (S3, EC2), Razorpay, CI/CD, Git |
 
 </div>
 
 ---
 
-## 💼 Strategic Work Experience
+## 💼 Work Experience
 
-### 🏢 ShowTime Consulting | Senior Full Stack Developer *(Aug 2024 – Present)*
+### 🏢 ShowTime Consulting | Full Stack Developer *(Aug 2024 – Present)*
 
-> Engineering 4 high-impact production tools for large-scale political and business analysis.
+> Developing production-grade tools for high-impact business and political domains.
 
 <table width="100%" align="center" border="0" cellpadding="10">
 <tbody>
   <tr>
     <td width="50%" valign="top">
       <div style="border: 1px solid #1E293B; border-radius: 10px; padding: 20px; background: #0F172A;">
-        <h3 align="center" style="color:#38BDF8;">🏛️ Enterprise Employee Portal</h3>
+        <h3 align="center" style="color:#38BDF8;">🏛️ Employee Portal</h3>
         <p style="color:#94A3B8; font-size:14px;">
-          Production-grade internal management system for 50+ employees. Implemented Role-Based Access Control (RBAC), secure JWT authentication, and real-time synchronization.
+          Internal portal used by 50+ employees featuring secure JWT authentication, role-based access control, and real-time dashboard updates.
         </p>
-        <p style="color:#38BDF8; font-size:13px; margin:10px 0;"><b>🛠️ Stack:</b> React · FastAPI · MongoDB · Socket.IO · JWT</p>
+        <p style="color:#38BDF8; font-size:13px; margin:10px 0;"><b>🛠️ Tech:</b> React · FastAPI · MongoDB · Socket.IO · JWT</p>
         <div align="center">
-          <a href="https://github.com/AkhilaM-21/STC-employee-portal" style="color:#38BDF8; text-decoration: none;"><b>[ View Architecture ]</b></a>
+          <a href="https://github.com/AkhilaM-21/STC-employee-portal" style="color:#38BDF8; text-decoration: none;"><b>[ View Project ]</b></a>
         </div>
       </div>
     </td>
     <td width="50%" valign="top">
       <div style="border: 1px solid #1E293B; border-radius: 10px; padding: 20px; background: #0F172A;">
-        <h3 align="center" style="color:#38BDF8;">🤖 AI-Driven Data Collection Agent</h3>
+        <h3 align="center" style="color:#38BDF8;">🤖 AI Field Collection Tool</h3>
         <p style="color:#94A3B8; font-size:14px;">
-          Modernized political field operations by replacing manual entries with an AI agent. Uses NLP to extract structured data from natural conversations and export to Excel.
+          AI-powered agent that extracts structured data from natural field conversations. Replaces manual Excel entry with seamless AI processing.
         </p>
-        <p style="color:#38BDF8; font-size:13px; margin:10px 0;"><b>🛠️ Stack:</b> React · FastAPI · LangGraph · LangChain · OpenRouter</p>
+        <p style="color:#38BDF8; font-size:13px; margin:10px 0;"><b>🛠️ Tech:</b> React · FastAPI · LangGraph · LangChain · OpenRouter</p>
       </div>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <div style="border: 1px solid #1E293B; border-radius: 10px; padding: 20px; background: #0F172A;">
-        <h3 align="center" style="color:#38BDF8;">📰 News Sentiment Intelligence</h3>
+        <h3 align="center" style="color:#38BDF8;">📰 News Sentiment Dashboard</h3>
         <p style="color:#94A3B8; font-size:14px;">
-          An advanced analytics pipeline that aggregates global news via API and applies NLP classifiers to provide real-time sentiment distribution and trend timelines.
+          An advanced analytics tool that fetches global news and classifies sentiment using NLP to provide real-time timelines and trends.
         </p>
-        <p style="color:#38BDF8; font-size:13px; margin:10px 0;"><b>🛠️ Stack:</b> Python · NLP · React · FastAPI · News API</p>
+        <p style="color:#38BDF8; font-size:13px; margin:10px 0;"><b>🛠️ Tech:</b> Python · NLP · React · FastAPI · News API</p>
       </div>
     </td>
     <td width="50%" valign="top">
       <div style="border: 1px solid #1E293B; border-radius: 10px; padding: 20px; background: #0F172A;">
-        <h3 align="center" style="color:#38BDF8;">📊 Omni-Channel Social Analytics</h3>
+        <h3 align="center" style="color:#38BDF8;">📊 Social Media Analytics</h3>
         <p style="color:#94A3B8; font-size:14px;">
-          A unified dashboard for tracking engagement across Instagram, YouTube, and Facebook. Built on AWS with real-time data scraping and ROI tracking metrics.
+          Unified dashboard for tracking Instagram, YouTube, and Facebook metrics. Built with real-time data scraping powered by AWS.
         </p>
-        <p style="color:#38BDF8; font-size:13px; margin:10px 0;"><b>🛠️ Stack:</b> React · FastAPI · MongoDB · AWS Architecture</p>
+        <p style="color:#38BDF8; font-size:13px; margin:10px 0;"><b>🛠️ Tech:</b> React · FastAPI · MongoDB · AWS</p>
       </div>
     </td>
   </tr>
@@ -121,7 +121,7 @@
 
 ---
 
-## 🚀 Impact Projects
+## 🚀 Personal Projects
 
 <table width="100%" align="center" border="0" cellpadding="10">
 <tbody>
@@ -130,9 +130,9 @@
       <div style="border: 1px solid #1E293B; border-radius: 10px; padding: 20px; background: #0F172A;">
         <h3 align="center" style="color:#38BDF8;">❤️ Little Hearts Foundation</h3>
         <p style="color:#94A3B8; font-size:14px;">
-          Full-scale web presence for a non-profit supporting orphaned children. Integrated secure payment gateways for global donations.
+          Responsive non-profit website supporting orphaned children. Features live production deployment with Razorpay donation integration.
         </p>
-        <p style="color:#38BDF8; font-size:13px; margin:10px 0;"><b>🛠️ Tech:</b> Node.js · Bootstrap · Razorpay Integration</p>
+        <p style="color:#38BDF8; font-size:13px; margin:10px 0;"><b>🛠️ Tech:</b> HTML · Bootstrap · Node.js · Razorpay Integration</p>
         <div align="center">
           <a href="https://littleheartsfoundations.com" style="color:#38BDF8; text-decoration: none;"><b>[ Live Site ]</b></a>
         </div>
@@ -140,9 +140,9 @@
     </td>
     <td width="50%" valign="top">
       <div style="border: 1px solid #1E293B; border-radius: 10px; padding: 20px; background: #0F172A;">
-        <h3 align="center" style="color:#38BDF8;">💕 Advanced Social Networking</h3>
+        <h3 align="center" style="color:#38BDF8;">💕 Dating Web App</h3>
         <p style="color:#94A3B8; font-size:14px;">
-          A high-performance dating application featuring real-time chat via WebSockets, Google OAuth, and smart filtering algorithms.
+          Feature-rich dating application with real-time chat, card swiping, smart filters, and secure Google authentication.
         </p>
         <p style="color:#38BDF8; font-size:13px; margin:10px 0;"><b>🛠️ Tech:</b> React.js · Node.js · MongoDB · Socket.IO</p>
       </div>
@@ -153,7 +153,7 @@
 
 ---
 
-## 📈 Engineering Metrics
+## 📈 GitHub Metrics
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AkhilaM-21&theme=tokyonight&no-bg=true&margin-w=10" />
@@ -170,5 +170,5 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0F172A&height=100&section=footer" />
 </div>
 
-<h3 align="center" style="color:#38BDF8;">"Architecting Scalability, One Commit at a Time."</h3>
+<h3 align="center" style="color:#38BDF8;">"Think it, Code it, Ship it."</h3>
 <p align="center" style="color:#94A3B8;">Crafted with Precision by <b>Akhila</b></p>
