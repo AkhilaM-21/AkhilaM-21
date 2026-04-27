@@ -1,39 +1,59 @@
-<!-- AKHILA MERUGU — GitHub Profile -->
+<!-- AKHILA MERUGU — GitHub Profile README v2 -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0F,25:1a1040,50:0d2137,75:1a1040,100:0A0A0F&height=220&section=header&text=Akhila%20Merugu&fontSize=58&fontColor=E8E3FF&animation=fadeIn&fontAlignY=42&desc=Full%20Stack%20Developer%20%E2%80%94%20React%20%C2%B7%20FastAPI%20%C2%B7%20LangGraph%20%C2%B7%20AI%20Agents&descSize=15&descAlignY=65&descColor=7C6FE0" />
-
-<br/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=15&duration=3000&pause=1200&color=7C6FE0&center=true&vCenter=true&width=700&lines=Building+production-grade+web+applications;LangGraph+%7C+LangChain+%7C+NLP+%7C+Sentiment+Analysis;AI-powered+tools+for+real-world+use+cases;FastAPI+%7C+React.js+%7C+Node.js+%7C+MongoDB+%7C+AWS;Open+to+freelance+%26+full-time+opportunities" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0a0a0a&height=4&section=header" width="100%"/>
 
 </div>
 
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║    █████╗ ██╗  ██╗██╗  ██╗██╗██╗      █████╗     ███╗   ███╗               ║
+║   ██╔══██╗██║ ██╔╝██║  ██║██║██║     ██╔══██╗    ████╗ ████║               ║
+║   ███████║█████╔╝ ███████║██║██║     ███████║    ██╔████╔██║               ║
+║   ██╔══██║██╔═██╗ ██╔══██║██║██║     ██╔══██║    ██║╚██╔╝██║               ║
+║   ██║  ██║██║  ██╗██║  ██║██║███████╗██║  ██║    ██║ ╚═╝ ██║               ║
+║   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝    ╚═╝     ╚═╝               ║
+║                                                                              ║
+║   [ FULL STACK DEVELOPER ]  ·  [ AI ENGINEER ]  ·  [ OPEN TO WORK ]        ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2500&pause=800&color=00FF88&center=true&vCenter=true&width=680&lines=→+React+·+FastAPI+·+LangGraph+·+AI+Agents;→+Building+production-grade+tools+at+ShowTime+Consulting;→+NLP+·+Sentiment+Analysis+·+Real-time+Systems;→+MongoDB+·+MySQL+·+AWS+·+Socket.IO;→+Open+to+Freelance+%26+Full-time+Opportunities" />
+
+</div>
+
+<br/>
+
 ---
 
-<table width="100%" border="0">
+## ▸ IDENTITY
+
+<table>
 <tr>
-<td width="55%" valign="top">
+<td>
 
-### `$ whoami`
-
-```yaml
-name      : Merugu Akhila
-title     : Full Stack Developer
-location  : Hyderabad, Telangana, India
-company   : ShowTime Consulting
-domain    : Political Tech · AI Tools · Real-time Systems
-focus     : LangGraph Agents · NLP · FastAPI · React
-education : B.Tech CS — JNTU Hyderabad · CGPA 8.2
-open_to   : Freelance & Full-time Opportunities
-contact   : merugu.akhila21@gmail.com
+```json
+{
+  "name"      : "Merugu Akhila",
+  "title"     : "Full Stack Developer",
+  "location"  : "Hyderabad, Telangana, India",
+  "company"   : "ShowTime Consulting",
+  "domain"    : "Political Tech · AI Tools · Real-time Systems",
+  "focus"     : ["LangGraph Agents", "NLP", "FastAPI", "React"],
+  "education" : "B.Tech CS — JNTU Hyderabad | CGPA 8.2",
+  "open_to"   : "Freelance & Full-time",
+  "contact"   : "merugu.akhila21@gmail.com"
+}
 ```
 
 </td>
-<td width="45%" valign="top" align="right">
+<td>
 
-<img src="https://github-readme-stats.vercel.app/api?username=AkhilaM-21&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D1A&title_color=7C6FE0&icon_color=A594F9&text_color=8B8BAA&ring_color=7C6FE0&hide=contribs" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AkhilaM-21&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D0D0D&title_color=00FF88&icon_color=00CC66&text_color=AAAAAA&ring_color=00FF88&hide=contribs" />
 
 </td>
 </tr>
@@ -41,182 +61,193 @@ contact   : merugu.akhila21@gmail.com
 
 ---
 
-## 💼 Work — ShowTime Consulting
+## ▸ WORK  `@ ShowTime Consulting`  —  Aug 2025 → Present
 
-> **Full Stack Developer** · Aug 2025 – Present · Hyderabad, India
-> Building 4 production tools for a political domain company
+> 4 production tools · Political domain · Hyderabad, India
 
-<table width="100%" border="0" cellspacing="8" cellpadding="0">
-<tr>
-<td width="50%" valign="top">
+<br/>
 
-**`[01]` 🏛️ Employee Portal**
+### `01` ─── EMPLOYEE PORTAL
 
 ```
-Stack  →  React · FastAPI · MongoDB · Socket.IO · JWT
-Users  →  50+ employees in production
+STACK  ──  React · FastAPI · MongoDB · Socket.IO · JWT
+USERS  ──  50+ in production
 ```
 
-- 🔐 JWT auth + Role-Based Access Control (RBAC)
-- ⚡ Real-time chat & announcements via Socket.IO
-- 🚀 REST APIs with sub-200ms response time
-- 📊 Attendance tracking & role-based dashboards
+| Feature | Detail |
+|---|---|
+| 🔐 Auth | JWT + Role-Based Access Control (RBAC) |
+| ⚡ Real-time | Live chat & announcements via Socket.IO |
+| 🚀 APIs | REST endpoints with sub-200ms response time |
+| 📊 Analytics | Attendance tracking & role-based dashboards |
 
-<a href="https://github.com/AkhilaM-21/STC-employee-portal"><img src="https://img.shields.io/badge/View%20Repo-7C6FE0?style=flat-square&logo=github&logoColor=white"/></a>
-
-</td>
-<td width="50%" valign="top">
-
-**`[02]` 🤖 AI Field Team Data Collection**
-
-```
-Stack  →  LangGraph · LangChain · FastAPI · MySQL · OpenRouter
-Type   →  Conversational AI → Structured Excel Export
-```
-
-- 🧠 LangGraph agent with 5 intelligent tools
-- 📄 Auto-fills & exports field reports to Excel
-- 🔄 Multi-Model Fallback: OpenRouter → Gemma → Groq
-- 🖥️ Dual-panel UI: AI chat + live Excel preview
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**`[03]` 📰 News Sentiment Intelligence**
-
-```
-Stack  →  React · FastAPI · Python · NLP · News API
-Type   →  Keyword Search → Sentiment Classification
-```
-
-- 🔍 Keyword + date filter → fetches all news articles
-- 🟢 NLP classifies: Positive / Negative / Neutral
-- 📈 Sentiment breakdown charts & trend timelines
-- 🗂️ Source distribution analytics dashboard
-
-</td>
-<td width="50%" valign="top">
-
-**`[04]` 📊 Social Media Analytics**
-
-```
-Stack  →  React · FastAPI · MongoDB · AWS
-Type   →  Real-time Multi-platform Dashboard
-```
-
-- 📱 Live metrics: Instagram · YouTube · Facebook
-- ☁️ AWS-powered scraping & data processing
-- 📊 Campaign ROI tracking in one unified view
-- ⚙️ Real-time data pipeline architecture
-
-</td>
-</tr>
-</table>
+[![View Repo](https://img.shields.io/badge/──▸_VIEW_REPO-00FF88?style=flat-square&logo=github&logoColor=000)](https://github.com/AkhilaM-21/STC-employee-portal)
 
 ---
 
-## 🚀 Personal Projects
-
-<table width="100%" border="0" cellspacing="8" cellpadding="0">
-<tr>
-<td width="50%" valign="top">
-
-**`[05]` ❤️ Little Hearts Foundation**
+### `02` ─── AI FIELD TEAM DATA COLLECTION
 
 ```
-Stack  →  HTML · Bootstrap · Node.js · Razorpay · Hostinger
-Live   →  littleheartsfoundations.com
+STACK  ──  LangGraph · LangChain · FastAPI · MySQL · OpenRouter
+TYPE   ──  Conversational AI → Structured Excel Export
 ```
 
-Non-profit website for orphaned & disabled children with live Razorpay donation integration.
+| Feature | Detail |
+|---|---|
+| 🧠 Agent | LangGraph agent with 5 intelligent tools |
+| 📄 Export | Auto-fills & exports field reports to Excel |
+| 🔄 Fallback | Multi-Model: OpenRouter → Gemma → Groq |
+| 🖥️ UI | Dual-panel: AI chat + live Excel preview |
+
+---
+
+### `03` ─── NEWS SENTIMENT INTELLIGENCE
+
+```
+STACK  ──  React · FastAPI · Python · NLP · News API
+TYPE   ──  Keyword Search → Sentiment Classification
+```
+
+| Feature | Detail |
+|---|---|
+| 🔍 Search | Keyword + date filter → fetches all articles |
+| 🟢 NLP | Classifies: Positive / Negative / Neutral |
+| 📈 Charts | Sentiment breakdown & trend timelines |
+| 🗂️ Analytics | Source distribution analytics dashboard |
+
+---
+
+### `04` ─── SOCIAL MEDIA ANALYTICS
+
+```
+STACK  ──  React · FastAPI · MongoDB · AWS
+TYPE   ──  Real-time Multi-platform Dashboard
+```
+
+| Feature | Detail |
+|---|---|
+| 📱 Platforms | Live metrics: Instagram · YouTube · Facebook |
+| ☁️ Cloud | AWS-powered scraping & data processing |
+| 📊 ROI | Campaign performance in one unified view |
+| ⚙️ Pipeline | Real-time data pipeline architecture |
+
+---
+
+## ▸ PERSONAL PROJECTS
+
+### `05` ─── LITTLE HEARTS FOUNDATION
+
+```
+STACK  ──  HTML · Bootstrap · Node.js · Razorpay · Hostinger
+LIVE   ──  littleheartsfoundations.com
+```
+
+Non-profit website for orphaned & disabled children.
 
 - 💳 Razorpay Checkout — UPI / Card / Wallets
 - 📱 Mobile-first responsive design
 - 🌐 Full DNS + SSL production deployment
 
-<a href="https://littleheartsfoundations.com"><img src="https://img.shields.io/badge/Live%20Site-3DD6B5?style=flat-square&logo=vercel&logoColor=black"/></a>
+[![Live Site](https://img.shields.io/badge/──▸_LIVE_SITE-00CC66?style=flat-square&logo=vercel&logoColor=000)](https://littleheartsfoundations.com)
 
-</td>
-<td width="50%" valign="top">
+---
 
-**`[06]` 💕 Dating Web App**
+### `06` ─── DATING WEB APP
 
 ```
-Stack  →  React.js · Node.js · MongoDB · Socket.IO
-Type   →  Solo build · Zero to Production
+STACK  ──  React.js · Node.js · MongoDB · Socket.IO
+TYPE   ──  Solo build · Zero to Production
 ```
 
 Full-featured dating application built from scratch.
 
-- 🃏 Card-based profile swiping with gestures
+- 🃏 Card-based swiping with gestures
 - 🔑 Google & email auth + session management
 - 💬 Real-time match chat via Socket.IO
 - 🎯 Smart filters — age, location & interests
 
-</td>
-</tr>
-</table>
+---
+
+## ▸ TECH STACK
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+**Backend**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
+
+**Data & Cloud**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=000)
+![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=3395FF)
+
+**AI / ML**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-00FF88?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSIxNiIgY3k9IjE2IiByPSIxNiIgZmlsbD0iIzFDM0MzQyIvPjwvc3ZnPg==&logoColor=000)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-FF6B6B?style=flat-square)
+![NLP](https://img.shields.io/badge/NLP-8B5CF6?style=flat-square)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
 ---
 
-## ⚙️ Tech Stack
+## ▸ GITHUB STATS
 
 <div align="center">
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=3395FF)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkhilaM-21&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0D1A&title_color=7C6FE0&text_color=8B8BAA&langs_count=8" width="38%"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AkhilaM-21&theme=tokyonight&hide_border=true&background=0D0D1A&ring=7C6FE0&fire=A594F9&currStreakLabel=A594F9&sideLabels=8B8BAA&dates=8B8BAA" width="52%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkhilaM-21&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D0D0D&title_color=00FF88&text_color=AAAAAA&langs_count=8" width="38%"/>
+&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AkhilaM-21&theme=chartreuse-dark&hide_border=true&background=0D0D0D&ring=00FF88&fire=00CC66&currStreakLabel=00FF88&sideLabels=AAAAAA&dates=666666" width="52%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AkhilaM-21&theme=tokyo-night&bg_color=0D0D1A&color=7C6FE0&line=A594F9&point=E8E3FF&hide_border=true&area=true&area_color=7C6FE0" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AkhilaM-21&theme=react-dark&bg_color=0D0D0D&color=00FF88&line=00CC66&point=FFFFFF&hide_border=true&area=true&area_color=00FF8822" width="95%"/>
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=AkhilaM-21&theme=tokyonight&no-bg=true&no-frame=true&margin-w=12&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=AkhilaM-21&theme=matrix&no-bg=true&no-frame=true&margin-w=12&column=6"/>
 
 </div>
 
 ---
 
+## ▸ CONNECT
+
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akhila-m21)
+[![LinkedIn](https://img.shields.io/badge/──▸_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akhila-m21)
 &nbsp;
-[![Gmail](https://img.shields.io/badge/Email-merugu.akhila21%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:merugu.akhila21@gmail.com)
+[![Gmail](https://img.shields.io/badge/──▸_GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:merugu.akhila21@gmail.com)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/Live%20Project-littleheartsfoundations.com-3DD6B5?style=for-the-badge&logo=vercel&logoColor=black)](https://littleheartsfoundations.com)
+[![Portfolio](https://img.shields.io/badge/──▸_LIVE_PROJECT-00FF88?style=for-the-badge&logo=vercel&logoColor=000)](https://littleheartsfoundations.com)
+
+</div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0F,25:1a1040,50:0d2137,75:1a1040,100:0A0A0F&height=140&section=footer&text=Think%20it.%20Code%20it.%20Ship%20it.&fontSize=18&fontColor=7C6FE0&fontAlignY=55&animation=fadeIn"/>
+```
+ ╔═══════════════════════════════════════════════════════╗
+ ║   " Think it.  Code it.  Ship it. "  — Akhila M.     ║
+ ╚═══════════════════════════════════════════════════════╝
+```
 
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=AkhilaM-21&color=00FF88&style=flat-square&label=PROFILE+VIEWS" />
 </div>
