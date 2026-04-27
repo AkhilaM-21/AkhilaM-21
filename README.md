@@ -1,189 +1,201 @@
-<!-- 🌈 Neon Scrolling README – Merugu Akhila -->
+<!-- AKHILA MERUGU — GitHub Profile README -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F9FF,100:FEB6FF&height=200&section=header&text=Merugu%20Akhila%20👩‍💻&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=180&section=header&text=Akhila%20Merugu&fontSize=52&fontColor=E8E3F0&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%E2%80%94%20React%20%C2%B7%20FastAPI%20%C2%B7%20AI%20Agents&descSize=16&descAlignY=62&descColor=9D8EC7" />
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00E0FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;AI+%7C+LangGraph+%7C+FastAPI+%7C+React.js;Building+real-world+production+apps;News+Sentiment+%7C+Field+AI+%7C+Real-time+Systems;Turning+ideas+into+code+%E2%9C%A8" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1200&color=9D8EC7&center=true&vCenter=true&width=680&lines=Building+production-grade+web+applications;LangGraph+%C2%B7+LangChain+%C2%B7+NLP+%C2%B7+Real-time+Systems;From+field+AI+tools+to+news+intelligence+dashboards;FastAPI+%C2%B7+React.js+%C2%B7+Node.js+%C2%B7+MongoDB" />
 </div>
+
+<br/>
 
 ---
 
-## 🌟 About Me
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td width="58%" valign="top">
 
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://raw.githubusercontent.com/AkhilaM-21/AkhilaM-21/main/coding.gif" width="280" style="border-radius:20px;" />
-    </td>
-    <td width="50%" align="left">
-      <h3>Hi, I'm <b>Merugu Akhila</b> 👋</h3>
-      <p>
-        🌸 <b>Full Stack Developer</b> based in Hyderabad, India<br><br>
-        ⚙️ I build production-ready apps end to end — clean React UIs to scalable FastAPI & Node.js backends<br><br>
-        🤖 Currently building <b>AI-powered tools</b> using <b>LangGraph</b>, <b>LangChain</b>, and <b>NLP</b> for real-world political & business use cases<br><br>
-        💼 Full Stack Developer @ <b>ShowTime Consulting</b><br><br>
-        ✨ Believer in <b>clean code + elegant design</b>
-      </p>
-      <p>
-        <a href="https://www.linkedin.com/in/akhila-m21">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-        </a>
-        <a href="mailto:merugu.akhila21@gmail.com">
-          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-        </a>
-      </p>
-    </td>
-  </tr>
+### `whoami`
+
+```yaml
+name      : Merugu Akhila
+role      : Full Stack Developer
+company   : ShowTime Consulting, Hyderabad
+focus     : AI-powered tools · Real-time systems
+           Payment integrations · NLP dashboards
+stack     : React · FastAPI · LangGraph · Node.js
+           MongoDB · MySQL · AWS · Socket.IO
+open_to   : Freelance & full-time opportunities
+contact   : merugu.akhila21@gmail.com
+```
+
+</td>
+<td width="42%" valign="top" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AkhilaM-21&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D8EC7&icon_color=6E56CF&text_color=8B949E&ring_color=6E56CF" width="100%" />
+
+</td>
+</tr>
 </table>
 
 ---
 
-## ⚙️ Tech Stack
+## Work Experience
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,nodejs,express,fastapi,python,mysql,mongodb,aws,git,github,postman,vscode&theme=light" />
-</div>
+**ShowTime Consulting** &nbsp;·&nbsp; Full Stack Developer &nbsp;·&nbsp; *Aug 2025 – Present*
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Frontend-FEB6FF?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Backend-00E0FF?style=for-the-badge&logo=fastapi&logoColor=black" />
-  <img src="https://img.shields.io/badge/AI%20%26%20Agents-FFD6FF?style=for-the-badge&logo=openai&logoColor=black" />
-  <img src="https://img.shields.io/badge/Database-A0F0FF?style=for-the-badge&logo=mongodb&logoColor=black" />
-  <img src="https://img.shields.io/badge/Cloud-00F9FF?style=for-the-badge&logo=amazonaws&logoColor=black" />
-</p>
+<table width="100%" border="0" cellpadding="8" cellspacing="6">
+<tr>
+<td width="50%" valign="top" style="background:#0D1117; border: 1px solid #21262D; border-radius:8px; padding:16px;">
 
-<div align="center">
+**🏛️ Employee Portal**
 
-| Category | Technologies |
-|---|---|
-| **Languages** | JavaScript (ES6+), Python, Java, HTML5, CSS3 |
-| **Frontend** | React.js, Tailwind CSS, Bootstrap, Responsive Design |
-| **Backend** | Node.js, Express.js, FastAPI, REST API Design |
-| **AI & Agents** | LangChain, LangGraph, OpenRouter API, Multi-Model Fallback, NLP, Sentiment Analysis |
-| **Databases** | MongoDB, MySQL |
-| **Cloud & Tools** | AWS, Socket.IO, Razorpay, JWT, Git, Vercel, Hostinger |
+Secure internal portal for 50+ employees with auth, attendance tracking, and real-time dashboards.
 
-</div>
+`React` `FastAPI` `MongoDB` `Socket.IO` `JWT`
 
----
+- JWT auth + RBAC multi-tier access
+- Real-time chat & announcements
+- REST APIs at sub-200ms response
 
-## 💼 Work Experience
+</td>
+<td width="50%" valign="top" style="background:#0D1117; border: 1px solid #21262D; border-radius:8px; padding:16px;">
 
-### 🏢 ShowTime Consulting — Full Stack Developer *(Aug 2025 – Present)*
+**🤖 AI Field Team Data Collection**
 
-> Building and maintaining 4 production-grade tools for a political domain company
+Replaces manual Excel entry for political field teams — agents chat naturally, AI structures & exports data.
 
-<table width="100%" align="center" border="0" cellpadding="10">
-<tbody>
+`LangGraph` `LangChain` `FastAPI` `MySQL` `OpenRouter`
 
-  <!-- Row 1 -->
-  <tr>
-    <td width="50%" valign="top">
-      <div style="border: 2px solid #00E0FF; border-radius: 15px; padding: 15px; background: rgba(0,0,0,0.6); box-shadow: 0 0 20px #00E0FF;">
-        <h3 align="center" style="color:#FF8CFF;">🏛️ Employee Portal</h3>
-        <p align="center" style="color:#A0F0FF; font-size:14px;">
-          Production-grade internal portal used by 50+ employees with secure auth, attendance tracking, and role-based dashboards.
-        </p>
-        <p style="color:#00E0FF; font-size:13px; margin:5px 0;"><b>🛠️ Tech:</b> React · FastAPI · MongoDB · Socket.IO · JWT</p>
-        <p style="color:#FF8CFF; font-size:13px; margin:5px 0;"><b>✨ Highlights:</b> JWT auth · RBAC · Real-time chat via Socket.IO · REST APIs</p>
-        <div align="center">
-          <a href="https://github.com/AkhilaM-21/STC-employee-portal" style="color:#00E0FF;">🔗 View Repository</a>
-        </div>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <div style="border: 2px solid #FF8CFF; border-radius: 15px; padding: 15px; background: rgba(0,0,0,0.6); box-shadow: 0 0 20px #FF8CFF;">
-        <h3 align="center" style="color:#00E0FF;">🤖 AI Field Team Data Collection Tool</h3>
-        <p align="center" style="color:#A0F0FF; font-size:14px;">
-          AI-powered tool replacing manual Excel entry for political field teams — agents chat naturally, AI extracts & exports structured data.
-        </p>
-        <p style="color:#FF8CFF; font-size:13px; margin:5px 0;"><b>🛠️ Tech:</b> React · FastAPI · LangGraph · LangChain · MySQL · OpenRouter</p>
-        <p style="color:#00E0FF; font-size:13px; margin:5px 0;"><b>✨ Highlights:</b> LangGraph agent · Excel export · Multi-Model Fallback Chain · Dual-panel UI</p>
-      </div>
-    </td>
-  </tr>
+- Conversational AI → auto Excel export
+- Multi-Model Fallback Chain
+- Dual-panel UI with live data preview
 
-  <!-- Row 2 -->
-  <tr>
-    <td width="50%" valign="top">
-      <div style="border: 2px solid #A0F0FF; border-radius: 15px; padding: 15px; background: rgba(0,0,0,0.6); box-shadow: 0 0 20px #A0F0FF;">
-        <h3 align="center" style="color:#FF8CFF;">📰 News Sentiment Intelligence Dashboard</h3>
-        <p align="center" style="color:#A0F0FF; font-size:14px;">
-          Keyword + date filter → fetches all news articles → classifies each as positive, negative, or neutral using NLP. Full analytics dashboard.
-        </p>
-        <p style="color:#A0F0FF; font-size:13px; margin:5px 0;"><b>🛠️ Tech:</b> React · FastAPI · Python · NLP · News API</p>
-        <p style="color:#FF8CFF; font-size:13px; margin:5px 0;"><b>✨ Highlights:</b> Sentiment charts · Trend timelines · Source distribution · Real-time NLP pipeline</p>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <div style="border: 2px solid #FEB6FF; border-radius: 15px; padding: 15px; background: rgba(0,0,0,0.6); box-shadow: 0 0 20px #FEB6FF;">
-        <h3 align="center" style="color:#00E0FF;">📊 Social Media Analytics Dashboard</h3>
-        <p align="center" style="color:#A0F0FF; font-size:14px;">
-          Live unified dashboard tracking Instagram, YouTube & Facebook metrics in one place via AWS-powered real-time data scraping.
-        </p>
-        <p style="color:#FEB6FF; font-size:13px; margin:5px 0;"><b>🛠️ Tech:</b> React · FastAPI · MongoDB · AWS</p>
-        <p style="color:#00E0FF; font-size:13px; margin:5px 0;"><b>✨ Highlights:</b> AWS scraping · Multi-platform metrics · Campaign ROI tracking</p>
-      </div>
-    </td>
-  </tr>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" style="background:#0D1117; border: 1px solid #21262D; border-radius:8px; padding:16px;">
 
-</tbody>
+**📰 News Sentiment Intelligence**
+
+Keyword + date → fetches articles → NLP classifies positive / negative / neutral. Full analytics view.
+
+`React` `FastAPI` `Python` `NLP` `News API`
+
+- Sentiment breakdown charts
+- Trend timelines & source distribution
+- Real-time NLP processing pipeline
+
+</td>
+<td width="50%" valign="top" style="background:#0D1117; border: 1px solid #21262D; border-radius:8px; padding:16px;">
+
+**📊 Social Media Analytics**
+
+Live unified dashboard tracking Instagram, YouTube & Facebook metrics via AWS-powered scraping.
+
+`React` `FastAPI` `MongoDB` `AWS`
+
+- Multi-platform real-time metrics
+- AWS backend scraping services
+- Campaign ROI consolidated view
+
+</td>
+</tr>
 </table>
 
 ---
 
-## 🚀 Personal Projects
+## Projects
 
-<table width="100%" align="center" border="0" cellpadding="10">
-<tbody>
-  <tr>
-    <td width="50%" valign="top">
-      <div style="border: 2px solid #00E0FF; border-radius: 15px; padding: 15px; background: rgba(0,0,0,0.6); box-shadow: 0 0 20px #00E0FF;">
-        <h3 align="center" style="color:#FF8CFF;">❤️ Little Hearts Foundation</h3>
-        <p align="center" style="color:#A0F0FF; font-size:14px;">
-          Fully responsive non-profit website for an organization supporting orphaned & disabled children. Live in production with Razorpay donation integration.
-        </p>
-        <p style="color:#00E0FF; font-size:13px; margin:5px 0;"><b>🛠️ Tech:</b> HTML · Bootstrap · Node.js · Razorpay · Hostinger</p>
-        <p style="color:#FF8CFF; font-size:13px; margin:5px 0;"><b>✨ Highlights:</b> Razorpay Checkout · UPI / card / wallet · SSL + DNS deployment</p>
-        <div align="center">
-          <a href="https://littleheartsfoundations.com" style="color:#00E0FF;">🌐 Live Site</a>
-        </div>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <div style="border: 2px solid #FF8CFF; border-radius: 15px; padding: 15px; background: rgba(0,0,0,0.6); box-shadow: 0 0 20px #FF8CFF;">
-        <h3 align="center" style="color:#00E0FF;">💕 Dating Web App</h3>
-        <p align="center" style="color:#A0F0FF; font-size:14px;">
-          Full-featured dating application built from scratch — card swiping, real-time chat, smart filters, and Google auth. Zero to production solo build.
-        </p>
-        <p style="color:#FF8CFF; font-size:13px; margin:5px 0;"><b>🛠️ Tech:</b> React.js · Node.js · MongoDB · Socket.IO</p>
-        <p style="color:#00E0FF; font-size:13px; margin:5px 0;"><b>✨ Highlights:</b> Card swiping · Google auth · Real-time chat · Smart filters · Photo uploads</p>
-      </div>
-    </td>
-  </tr>
-</tbody>
+<table width="100%" border="0" cellpadding="8" cellspacing="6">
+<tr>
+<td width="50%" valign="top" style="background:#0D1117; border: 1px solid #21262D; border-radius:8px; padding:16px;">
+
+**❤️ Little Hearts Foundation** &nbsp;·&nbsp; [littleheartsfoundations.com](https://littleheartsfoundations.com)
+
+Mobile-first non-profit website for orphaned & disabled children with live Razorpay donation integration.
+
+`HTML` `Bootstrap` `Node.js` `Razorpay` `Hostinger`
+
+- Razorpay Checkout — UPI / card / wallets
+- Full DNS + SSL production deployment
+
+</td>
+<td width="50%" valign="top" style="background:#0D1117; border: 1px solid #21262D; border-radius:8px; padding:16px;">
+
+**💕 Dating Web App**
+
+Full-featured dating app built solo from zero — card swiping, real-time chat, smart filters, Google auth.
+
+`React.js` `Node.js` `MongoDB` `Socket.IO`
+
+- Card-based swiping + photo profiles
+- Real-time match chat via Socket.IO
+- Smart filters — age, location, interests
+
+</td>
+</tr>
 </table>
 
 ---
 
-## 📈 GitHub Stats
+## Tech Stack
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AkhilaM-21&theme=algolia&no-bg=true&margin-w=10" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=AkhilaM-21&show_icons=true&theme=react&bg_color=0D1117&title_color=00E0FF&icon_color=FF8CFF&text_color=ffffff&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkhilaM-21&layout=compact&theme=react&bg_color=0D1117&title_color=00E0FF&text_color=ffffff&hide_border=true" width="40%" />
-  <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkhilaM-21&theme=react-dark&bg_color=000000&color=00E0FF&line=FF8CFF&point=FFFFFF&hide_border=true&area=true" width="90%" />
+
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socket.io&badgeColor=010101)
+![Tailwind](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white)
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=3395FF)
+
+</div>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkhilaM-21&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D8EC7&text_color=8B949E" width="42%" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkhilaM-21&theme=tokyonight&hide_border=true&background=0D1117&ring=6E56CF&fire=9D8EC7&currStreakLabel=9D8EC7" width="48%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkhilaM-21&theme=tokyo-night&bg_color=0D1117&color=9D8EC7&line=6E56CF&point=E8E3F0&hide_border=true&area=true&area_color=6E56CF" width="94%" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F9FF,100:FEB6FF&height=150&section=footer" />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akhila-m21)
+[![Email](https://img.shields.io/badge/Email-merugu.akhila21%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:merugu.akhila21@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Site-6E56CF?style=for-the-badge&logo=vercel&logoColor=white)](https://littleheartsfoundations.com)
+
 </div>
 
-<h3 align="center" style="color:#00FFFF;">✨ "Think it, Code it, Ship it." ✨</h3>
-<p align="center" style="color:#FF00FF;">⚡ Crafted with 💖 by <b>Akhila</b> ⚡</p>
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=130&section=footer&fontSize=14&fontColor=9D8EC7&text=%22Think%20it.%20Code%20it.%20Ship%20it.%22&fontAlignY=65" />
+</div>
