@@ -20,10 +20,10 @@
     <td width="50%" align="left">
       <h3>Hi, I'm <b>Merugu Akhila</b> 👋</h3>
       <p>
-        🌸 <b>Full Stack Developer</b> based in Hyderabad, India<br><br>
+        🌸 <b>Software Engineer</b> based in Hyderabad, India<br><br>
         ⚙️ I build production-ready apps end to end — clean React UIs to scalable FastAPI & Node.js backends<br><br>
         🤖 Currently building <b>AI-powered tools</b> using <b>LangGraph</b>, <b>LangChain</b>, and <b>NLP</b> for real-world political & business use cases<br><br>
-        💼 Full Stack Developer @ <b>ShowTime Consulting</b><br><br>
+        💼Software Engineer @ <b></b><br>Konnect NXT<br>
         ✨ Believer in <b>clean code + elegant design</b>
       </p>
       <p>
