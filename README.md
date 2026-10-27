@@ -23,7 +23,7 @@
         🌸 <b>Software Engineer</b> based in Hyderabad, India<br><br>
         ⚙️ I build production-ready apps end to end — clean React UIs to scalable FastAPI & Node.js backends<br><br>
         🤖 Currently building <b>AI-powered tools</b> using <b>LangGraph</b>, <b>LangChain</b>, and <b>NLP</b> for real-world political & business use cases<br><br>
-        💼Software Engineer @ <b></b><br>Konnect NXT<br>
+        💼Software Engineer @<br>Konnect NXT<br>
         ✨ Believer in <b>clean code + elegant design</b>
       </p>
       <p>
